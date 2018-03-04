@@ -3,3 +3,7 @@ Defines a <a href='https://www.docker.com/' rel='tag'>Docker</a> image useful fo
 
 <a href='https://opensource.org/licenses/MIT' rel='tag'>MIT</a> licensed.
 
+# Use Case
+
+> As a Static Site Developer,
+> I want to isolate Gatsby within a Docker Container 
