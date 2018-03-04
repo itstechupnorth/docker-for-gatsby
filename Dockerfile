@@ -34,7 +34,9 @@ RUN \
 # git used by gateby in particular to create new projects 
   apk add --no-cache git && \
 # Gatsby installed by npm
-  apk add --no-cache nodejs-npm && \ 
+  apk add --no-cache nodejs-npm && \
+# install Yarn, a typical choice for plugin management
+  apk add --no-cache yarn && \
 # install gatsby
   npm install --global gatsby-cli && \
 # Create mapped gatsby user
