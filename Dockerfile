@@ -38,7 +38,9 @@ RUN \
 # install Yarn, a typical choice for plugin management
   apk add --no-cache yarn && \
 # install Python, used by many image plugins
-  apk add --no-cache python && \
+  apk add --no-cache python make g++ && \
+# install image processing library used by image plugins
+  apk add vips-dev fftw-dev --no-cache --repository https://dl-3.alpinelinux.org/alpine/edge/testing/ && \
 # install gatsby
   npm install --global gatsby-cli && \
 # Create mapped gatsby user
