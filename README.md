@@ -14,6 +14,13 @@ Early beta ― useful but limited function and features.
 
 ## Features
 
+### <a href='https://github.com/itstechupnorth/docker-for-gatsby/issues/7'>GH-7</a> Install Dependencies for Sharp Plugin
+
+> As a developer of static sites
+> I want to use the sharp plugin
+
+Install dependencies including build tool chain and image libraries.
+
 ### <a href='https://github.com/itstechupnorth/docker-for-gatsby/issues/5'>GH-5</a> Install Python
 
 > As a User
