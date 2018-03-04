@@ -7,8 +7,20 @@ Early beta ― useful but limited function and features.
 
 # Use Case
 
+## Primary
+
 > As a Static Site Developer,
 > I want to isolate Gatsby within a Docker Container 
+
+## Features
+
+### <a href='https://github.com/itstechupnorth/docker-for-gatsby/issues/1'>GH-1</a> Install Yarn
+
+> As a static site developer,
+> In order to install Gatsby plugins,
+> I want to be able to use Yarn
+
+Installed Yarn as Alpine packaged.
 
 # Notes
 
