@@ -37,6 +37,8 @@ RUN \
   apk add --no-cache nodejs-npm && \
 # install Yarn, a typical choice for plugin management
   apk add --no-cache yarn && \
+# install Python, used by many image plugins
+  apk add --no-cache python && \
 # install gatsby
   npm install --global gatsby-cli && \
 # Create mapped gatsby user
