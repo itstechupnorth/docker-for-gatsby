@@ -24,8 +24,6 @@
 
 FROM alpine:3.7
 
-## Install Gatsby - TODO factor out into base image
-
 # Set application home
 WORKDIR /usr/app
 
