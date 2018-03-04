@@ -3,6 +3,8 @@ Defines a <a href='https://www.docker.com/' rel='tag'>Docker</a> image useful fo
 
 <a href='https://opensource.org/licenses/MIT' rel='tag'>MIT</a> licensed.
 
+Early beta ― useful but limited function and features. 
+
 # Use Case
 
 > As a Static Site Developer,
