@@ -14,13 +14,21 @@ Early beta ― useful but limited function and features.
 
 ## Features
 
+### <a href='https://github.com/itstechupnorth/docker-for-gatsby/issues/5'>GH-5</a> Install Python
+
+> As a User
+> I want to build static sites using Gatsby image plugins
+> which rely on Python
+
+Installed Yarn as Alpine package. 
+
 ### <a href='https://github.com/itstechupnorth/docker-for-gatsby/issues/1'>GH-1</a> Install Yarn
 
 > As a static site developer,
 > In order to install Gatsby plugins,
 > I want to be able to use Yarn
 
-Installed Yarn as Alpine packaged.
+Installed Yarn as Alpine package.
 
 # Notes
 
