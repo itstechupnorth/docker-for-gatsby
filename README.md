@@ -9,3 +9,7 @@ Early beta ― useful but limited function and features.
 
 > As a Static Site Developer,
 > I want to isolate Gatsby within a Docker Container 
+
+# Notes
+
+As a Docker container, the various dependency versions are fixed at image creation. 
