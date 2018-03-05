@@ -8,6 +8,7 @@ Early beta ― useful but limited function and features.
 See the <a href='https://github.com/itstechupnorth/docker-for-gatsby/wiki/Home'>Wiki</a> for more including
 * Recipes for
   * <a href='https://github.com/itstechupnorth/docker-for-gatsby/wiki/DailyDevelopment'>Daily development</a>
+  * <a href='https://github.com/itstechupnorth/docker-for-gatsby/wiki/GatsbyDevelopMode'>Gatsby in Develop Mode</a>
 
 # Use Cases
 
